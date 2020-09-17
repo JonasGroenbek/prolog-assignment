@@ -1,7 +1,7 @@
 # prolog-assignment
 
 ### Assignment specification
-###### Create a program that models students, classes, rooms, dates, and their relations.
+<strong>Create a program that models students, classes, rooms, dates, and their relations.</strong>
 
 Following considerations went into creating the project - somehow the data has to be created while maintaining a relation to one another and the data should also be presentable in some way possible through an API 
 
