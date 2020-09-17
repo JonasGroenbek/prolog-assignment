@@ -5,7 +5,7 @@
 
 Following considerations went into creating the project - somehow the data has to be created while maintaining a relation to one another and the data should also be presentable in some way possible through an API 
 
-The data is stored through predicates describing facts. This is probably a suboptimal solution, since it could be stored in a big graph instead. This however seemed too complex for the scope of the assignment, which is an introduction to Prolog.
+The data is stored through predicates describing facts. This is probably a suboptimal solution, since it could be stored in a single graph instead. This however seemed too complex for the scope of the assignment, which is an introduction to Prolog.
 
 To run the script, you can either download the repository and use the CLI tool ``swipl`` or <https://swish.swi-prolog.org/>. 
 To run it with swipl navigate to the cloned prolog-assignment folder and run 
